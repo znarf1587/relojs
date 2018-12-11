@@ -1,0 +1,18 @@
+{
+  "name": "relojs",
+  "version": "1.0.0",
+  "description": "Libreria que implementa un reloj digital",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "reloj",
+    "digital"
+  ],
+  "author": "Franz Ferrufino",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
