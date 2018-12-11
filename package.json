@@ -12,7 +12,14 @@
   ],
   "author": "Franz Ferrufino",
   "license": "MIT",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/znarf1587/relojs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/znarf1587/relojs/issues"
+  },
+  "homepage": "https://github.com/znarf1587/relojs#readme"
 }

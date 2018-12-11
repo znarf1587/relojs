@@ -1,10 +1,9 @@
-var express = require("express");
-var app = express();
+/*!
+ * relojs
+ * Copyright(c) 2018 Franz Ferrufino
+ * MIT Licensed
+ */
 
-app.get("/", function(req, res) {
-  res.send("00:00:00");
-});
+"use strict";
 
-app.listen(3000, function() {
-  console.log("Servidor escuchando por el puerto 3000");
-});
+module.exports = require("./lib/relojs");
